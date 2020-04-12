@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library Manager</string>
+    <string name="nirmal">Testing</string>
+    <string name="minimum_password">6</string>
+    <string name="auth_failed">Login Failed</string>
+
+</resources>
